@@ -10,6 +10,6 @@ uint32_t hash(const void *key, size_t length, const uint32_t initval);
 #ifdef    __cplusplus
 }
 #endif
-
+//+++++++++++++++++++++++++++++++++++++++++++++++++cwdfwefwefwejij
 #endif    /* HASH_H */
 
