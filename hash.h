@@ -5,6 +5,7 @@
 extern "C" {
 #endif
 // comment1
+// yetewtwe
 uint32_t hash(const void *key, size_t length, const uint32_t initval);
 //coments
 #ifdef    __cplusplus
